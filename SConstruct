@@ -6,7 +6,7 @@ from methods import print_error
 
 
 libname = "CPP-ROPE"
-projectdir = "demo"
+projectdir = "cpp-rope"
 
 localEnv = Environment(tools=["default"], PLATFORM="")
 
